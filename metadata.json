@@ -1,0 +1,13 @@
+{
+  "name": "Clinic 360 AI",
+  "description": "A complete 360° intelligent CRM and management system for health and wellness clinics, featuring AI-driven insights, automated scheduling, and comprehensive financial tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "CRM",
+    "AI Analytics",
+    "Financial Management",
+    "Automated Scheduling"
+  ]
+}
